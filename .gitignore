@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Build / cache
+*.tsbuildinfo
+dist/
+coverage/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+.claude/
+
+# Vitest
+node_modules/.vite/

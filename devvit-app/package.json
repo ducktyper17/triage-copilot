@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "name": "triage-copilot",
+  "version": "0.0.0",
+  "license": "BSD-3-Clause",
+  "type": "module",
+  "scripts": {
+    "deploy": "devvit upload",
+    "dev": "dotenv -e .env -- devvit playtest",
+    "login": "devvit login",
+    "launch": "devvit publish",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "check": "tsc --build && vitest run",
+    "type-check": "tsc --build"
+  },
+  "dependencies": {
+    "@devvit/public-api": "0.12.23"
+  },
+  "devDependencies": {
+    "devvit": "0.12.23",
+    "dotenv-cli": "8.0.0",
+    "typescript": "5.8.3",
+    "vitest": "3.2.4"
+  }
+}
