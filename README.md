@@ -14,7 +14,8 @@ npm run login          # devvit login
 npm run deploy         # upload to Reddit
 ```
 
-**App listing:** https://developers.reddit.com/apps/triage-copilot
+**App listing:** https://developers.reddit.com/apps/triage-copilot  
+**GitHub:** https://github.com/ducktyper17/triage-copilot
 
 ## Docs
 

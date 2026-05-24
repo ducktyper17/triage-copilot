@@ -92,7 +92,7 @@ https://developers.reddit.com/apps/triage-copilot
 *(YouTube unlisted link goes here after recording)*
 
 ## GitHub
-*(Public repo link goes here after we push)*
+https://github.com/ducktyper17/triage-copilot
 
 ## Communities that would benefit
 
