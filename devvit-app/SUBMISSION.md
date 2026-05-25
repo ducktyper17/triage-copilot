@@ -89,7 +89,7 @@ Total: 15+ source modules, ~1,800 lines of TypeScript, **60+ automated tests** (
 https://developers.reddit.com/apps/triage-copilot
 
 ## Demo video
-*(YouTube unlisted link goes here after recording)*
+https://youtu.be/hV3pdYj7Pus
 
 ## GitHub
 https://github.com/ducktyper17/triage-copilot
