@@ -15,10 +15,10 @@
     "type-check": "tsc --build"
   },
   "dependencies": {
-    "@devvit/public-api": "0.12.23"
+    "@devvit/public-api": "^0.12.24"
   },
   "devDependencies": {
-    "devvit": "0.12.23",
+    "devvit": "^0.12.24",
     "dotenv-cli": "8.0.0",
     "typescript": "5.8.3",
     "vitest": "3.2.4"
